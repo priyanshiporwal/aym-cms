@@ -1,6 +1,6 @@
 
 # AYM CMS Readme
-
+AN AMAZING PROJECT!
 The AYM CMS is a simple static CMS system built on top
 of [Django][1] templates, and a 76 line Python build script.
 
